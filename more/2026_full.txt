@@ -39,14 +39,14 @@ Refs: Wilton SAMPAIO (BRA)
 
 
 Thu Jun 11 20:00 UTC-6 @ Guadalajara Stadium, Guadalajara, Att: 44985
-  Korea Republic v Czechia  2-1 (0-0)
+  South Korea v Czech Republic  2-1 (0-0)
      (HWANG Inbeom 67', OH Hyeongyu 80';
       Ladislav KREJCI 59')
 
-Korea Republic: KIM Seunggyu - LEE Hanbeom, KIM Minjae, LEE Taeseok (69' EOM Jisung) - SEOL Youngwoo,
+South Korea: KIM Seunggyu - LEE Hanbeom, KIM Minjae, LEE Taeseok (69' EOM Jisung) - SEOL Youngwoo,
       LEE Gihyuk [Y 90+6'], HWANG Inbeom (84' KIM Jingyu), PAIK Seungho (84' PARK Jinseob) -
       LEE Jaesung (62' HWANG Heechan), LEE Kangin, SON Heungmin [c] (69' OH Hyeongyu)
-Czechia: Matej KOVAR - Robin HRANAC, Vladimir COUFAL, Stepan CHALOUPEK, Ladislav KREJCI [c],
+Czech Republic: Matej KOVAR - Robin HRANAC, Vladimir COUFAL, Stepan CHALOUPEK, Ladislav KREJCI [c],
       Jaroslav ZELENY - Lukas PROVOD (63' Michal SADILEK), Tomas SOUCEK -
       Alexandr SOJKA (84' Mojmir CHYTIL), Patrik Schick (63' Tomas CHORY),
       Pavel SULC (63' Adam HLOZEK)
@@ -55,10 +55,10 @@ Refs: Amin Mohamed Omar (EGY)
 
 
 Thu Jun 18 12:00 UTC-4 @ Atlanta Stadium, Atlanta, Att: 67442
-  Czechia v South Africa  1-1 (1-0)
+  Czech Republic v South Africa  1-1 (1-0)
      (Michal SADILEK 6'; Teboho MOKOENA 83'(p))
 
-Czechia: Matej KOVAR - Tomas HOLES, Robin HRANAC, Vladimir COUFAL - Ladislav KREJCI [c] [Y 75'],
+Czech Republic: Matej KOVAR - Tomas HOLES, Robin HRANAC, Vladimir COUFAL - Ladislav KREJCI [c] [Y 75'],
       Vladimir DARIDA (55' Pavel SULC), Lukas CERV (78' David Zima),
       Michal SADILEK (67' Tomas SOUCEK), Alexandr SOJKA (55' Jaroslav ZELENY) -
       Adam HLOZEK (67' Lukas PROVOD), Patrik Schick
@@ -71,14 +71,14 @@ Refs: Tori Penso (USA)
 
 
 Thu Jun 18 19:00 UTC-6 @ Guadalajara Stadium, Guadalajara, Att: 45522
-  Mexico v Korea Republic  1-0 (0-0)
+  Mexico v South Korea  1-0 (0-0)
      (Luis ROMO 50')
 
 Mexico: Raul RANGEL - Jorge SANCHEZ, Edson ALVAREZ [c], Johan VASQUEZ, Jesus GALLARDO -
       Erik LIRA - Luis ROMO (71' Obed VARGAS), Brian GUTIERREZ (71' Orbelin PINEDA) -
       Raul JIMENEZ (80' Santiago GIMENEZ), Julian QUINONES (84' Cesar HUERTA),
       Roberto ALVARADO (80' Israel REYES)
-Korea Republic: KIM Seunggyu - LEE Hanbeom, KIM Minjae, KIM Moonhwan  (71' EOM Jisung) -
+South Korea: KIM Seunggyu - LEE Hanbeom, KIM Minjae, KIM Moonhwan  (71' EOM Jisung) -
       SEOL Youngwoo (71' YANG Hyunjun ), LEE Gihyuk, HWANG Inbeom,
       PAIK Seungho [Y 58'] (77' CHO Guesung) - LEE Jaesung (57' HWANG Heechan),
       LEE Kangin [Y 4'], SON Heungmin [c] (57' OH Hyeongyu)
@@ -87,14 +87,14 @@ Refs: Gustavo Tejera (URU)
 
 
 Wed Jun 24 19:00 UTC-6 @ Monterrey Stadium, Monterrey, Att: 51243
-  South Africa v Korea Republic  1-0 (0-0)
+  South Africa v South Korea  1-0 (0-0)
      (Thapelo MASEKO 63')
 
 South Africa: Ronwen WILLIAMS [c] - Aubrey MODIBA [Y 72'], Mbekezeli MBOKAZI, Khuliso MUDAU,
       Ime OKON - Thalente MBATHA, Sphephelo SITHOLE - Oswin APPOLLIS (62' Tshepang MOREMI),
       Relebohile MOFOKENG (80' Jayden ADAMS), Thapelo MASEKO (75' Iqraam RAYNERS) -
       Evidence MAKGOPA
-Korea Republic: KIM Seunggyu - LEE Hanbeom, KIM Minjae [c] (65' PARK Jinseob),
+South Korea: KIM Seunggyu - LEE Hanbeom, KIM Minjae [c] (65' PARK Jinseob),
       LEE Taeseok (46' CASTROP Jens) - SEOL Youngwoo, LEE Gihyuk, HWANG Inbeom,
       PAIK Seungho (46' KIM Jingyu) - HWANG Heechan (46' SON Heungmin), LEE Kangin,
       OH Hyeongyu (74' CHO Guesung [Y 78'])
@@ -103,10 +103,10 @@ Refs: Facundo TELLO (ARG)
 
 
 Wed Jun 24 19:00 UTC-6 @ Mexico City Stadium, Mexico City, Att: 80824
-  Czechia v Mexico  0-3 (0-0)
+  Czech Republic v Mexico  0-3 (0-0)
      (Mateo CHAVEZ 55', Julian QUINONES 61', Alvaro FIDALGO 90+4')
 
-Czechia: Matej KOVAR - Tomas HOLES (64' Tomas SOUCEK (87' Alexandr SOJKA)), Robin HRANAC,
+Czech Republic: Matej KOVAR - Tomas HOLES (64' Tomas SOUCEK (87' Alexandr SOJKA)), Robin HRANAC,
       Vladimir COUFAL, Ladislav KREJCI [c], David DOUDERA - Lukas CERV (87' Tomas CHORY),
       Michal SADILEK - Adam HLOZEK (64' Patrik Schick), Pavel SULC,
       Denis VISINSKY (56' Lukas PROVOD)
@@ -343,14 +343,14 @@ Refs: Danny Desmond Makkelie (NED)
 
 
 Sat Jun 13 21:00 UTC-7 @ BC Place Vancouver, Vancouver, Att: 52497
-  Australia v Türkiye  2-0 (1-0)
+  Australia v Turkey  2-0 (1-0)
      (Nestory IRANKUNDA 27', Connor METCALFE 75')
 
 Australia: Patrick BEACH - Alessandro CIRCATI, Jacob ITALIANO (74' Jason GERIA),
       Jordan BOS (83' Aziz BEHICH), Harry SOUTTAR [c], Cameron BURGESS - Connor METCALFE,
       Aiden ONEILL, Paul OKON-ENGSTLER (83' Jackson IRVINE), Mohamed TOURE (74' Tete YENGI) -
       Nestory IRANKUNDA (61' Nishan VELUPILLAY)
-Türkiye: Ugurcan CAKIR - Zeki CELIK (80' Mert MULDUR), Merih DEMIRAL, Abdulkerim BARDAKCI,
+Turkey: Ugurcan CAKIR - Zeki CELIK (80' Mert MULDUR), Merih DEMIRAL, Abdulkerim BARDAKCI,
       Ferdi KADIOGLU - Orkun KOKCU (62' Yunus AKGUN [Y 86']), Hakan CALHANOGLU [c] -
       Ismail YUKSEK (80' Salih OZCAN), Kerem AKTURKOGLU (85' Deniz GUL), Arda GULER -
       Baris Alper YILMAZ (46' Kenan YILDIZ)
@@ -375,10 +375,10 @@ Refs: Felix Zwayer (GER)
 
 
 Fri Jun 19 20:00 UTC-7 @ San Francisco Bay Area Stadium, San Francisco Bay Area, Att: 68827
-  Türkiye v Paraguay  0-1 (0-1)
+  Turkey v Paraguay  0-1 (0-1)
      (Matias GALARZA 2')
 
-Türkiye: Ugurcan CAKIR - Merih DEMIRAL, Abdulkerim BARDAKCI (86' Orkun KOKCU), Mert MULDUR,
+Turkey: Ugurcan CAKIR - Merih DEMIRAL, Abdulkerim BARDAKCI (86' Orkun KOKCU), Mert MULDUR,
       Ferdi KADIOGLU (71' Eren ELMALI [Y 71']) - Hakan CALHANOGLU [c],
       Ismail YUKSEK (60' Can UZUN) - Kerem AKTURKOGLU (46' Baris Alper YILMAZ), Arda GULER,
       Kenan YILDIZ - Yunus AKGUN (60' Deniz GUL)
@@ -406,11 +406,11 @@ Refs: Clément Turpin (FRA)
 
 
 Thu Jun 25 19:00 UTC-7 @ Los Angeles Stadium, Los Angeles, Att: 70492
-  Türkiye v USA  3-2 (2-1)
+  Turkey v USA  3-2 (2-1)
      (Arda GULER 10', Baris Alper YILMAZ 31', Kaan Ayhan 90+8';
       Auston TRUSTY 3', Sebastian BERHALTER 49')
 
-Türkiye: Ugurcan CAKIR - Zeki CELIK [c] (84' Caglar SOYUNCU), Eren ELMALI, Abdulkerim BARDAKCI -
+Turkey: Ugurcan CAKIR - Zeki CELIK [c] (84' Caglar SOYUNCU), Eren ELMALI, Abdulkerim BARDAKCI -
       Ozan KABAK, Salih OZCAN, Orkun KOKCU (88' Kaan Ayhan), Arda GULER -
       Kenan YILDIZ (84' Can UZUN), Baris Alper YILMAZ (90+1' Irfan Can KAHVECI),
       Oguz AYDIN (90+1' Mert MULDUR)
@@ -648,11 +648,11 @@ Refs: Ramon ABATTI (BRA)
 
 
 Mon Jun 15 18:00 UTC-7 @ Los Angeles Stadium, Los Angeles, Att: 70108
-  IR Iran v New Zealand  2-2 (1-1)
+  Iran v New Zealand  2-2 (1-1)
      (Ramin REZAEIAN 32', Mohammad MOHEBBI 64';
       Elijah JUST 7', 54')
 
-IR Iran: Alireza BEIRANVAND - Shoja KHALILZADEH, Milad MOHAMMADI,
+Iran: Alireza BEIRANVAND - Shoja KHALILZADEH, Milad MOHAMMADI,
       Arya YOUSEFI (46' Mehdi GHAYEDI), Ali NEMATI - Ramin REZAEIAN, Saeid EZATOLAHI,
       Mohammad MOHEBBI - Saman GHODDOS (65' Ehsan HAJISAFI [Y 89']),
       Mehdi TAREMI [c] (80' Amirhossein Hosseinzadeh), Shahriyar MOGHANLOO (53' Ali Alipour)
@@ -665,14 +665,14 @@ Refs: César Arturo Ramos Palazuelos (MEX)
 
 
 Sun Jun 21 12:00 UTC-7 @ Los Angeles Stadium, Los Angeles, Att: 70317
-  Belgium v IR Iran  0-0 (0-0)
+  Belgium v Iran  0-0 (0-0)
 
 Belgium: Thibaut COURTOIS - Brandon MECHELE, Maxim DE CUYPER,
       Thomas MEUNIER (58' Timothy CASTAGNE), Nathan NGOY [R 66'] -
       Kevin DE BRUYNE (87' Matias FERNANDEZ-PARDO), Youri TIELEMANS [c] -
       Alexis SAELEMAEKERS (58' Dodi LUKEBAKIO), Nicolas RASKIN (58' Hans VANAKEN),
       Romelu LUKAKU [Y 3'] (73' Arthur THEATE) - Leandro TROSSARD
-IR Iran: Alireza BEIRANVAND - Saleh HARDANI (46' Alireza JAHANBAKHSH),
+Iran: Alireza BEIRANVAND - Saleh HARDANI (46' Alireza JAHANBAKHSH),
       Ehsan HAJISAFI [c] (66' Milad MOHAMMADI), Shoja KHALILZADEH, Hossein KANANI,
       Ali NEMATI - Ramin REZAEIAN, Saeid EZATOLAHI [Y 33'] (85' Amirhossein Hosseinzadeh) -
       Mohammad MOHEBBI (66' Mehdi TORABI), Saman GHODDOS (79' Shahriyar MOGHANLOO),
@@ -717,7 +717,7 @@ Refs: Adham Mohammad Tumah Makhadmeh (JOR)
 
 
 Fri Jun 26 20:00 UTC-7 @ Seattle Stadium, Seattle, Att: 66925
-  Egypt v IR Iran  1-1 (1-1)
+  Egypt v Iran  1-1 (1-1)
      (MAHMOUD SABER 5'; Ramin REZAEIAN 14')
 
 Egypt: MOSTAFA SHOUBIR - MOHAMED HANY, RAMY RABIA,
@@ -725,7 +725,7 @@ Egypt: MOSTAFA SHOUBIR - MOHAMED HANY, RAMY RABIA,
       EMAM ASHOUR (46' OMAR MARMOUSH), MOSTAFA ZICO (76' HAMZA ABDELKARIM) -
       MOHANAD LASHIN [Y 90+2'], MAHMOUD SABER [Y 19'] (46' MARAWAN ATTIA), TREZEGUET -
       MOHAMED SALAH [c] (57' ZIZO)
-IR Iran: Alireza BEIRANVAND - Shoja KHALILZADEH [Y 90+4'], Milad MOHAMMADI,
+Iran: Alireza BEIRANVAND - Shoja KHALILZADEH [Y 90+4'], Milad MOHAMMADI,
       Hossein KANANI [Y 18'] (46' Saleh HARDANI), Ali NEMATI [Y 43'], Ramin REZAEIAN -
       Saeid EZATOLAHI [Y 79'], Mohammad MOHEBBI (90+1' Alireza JAHANBAKHSH),
       Saman GHODDOS (67' Shahriyar MOGHANLOO), Mohammad GHORBANI - Mehdi TAREMI [c]

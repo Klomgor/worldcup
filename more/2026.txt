@@ -26,18 +26,18 @@
 Thu Jun 11 2026
   13:00 UTC-6   Mexico  2-0 (1-0)  South Africa   @ Mexico City
                   (Julian QUINONES 9', Raul JIMENEZ 67')
-  20:00 UTC-6   Korea Republic  2-1 (0-0)  Czechia   @ Guadalajara
+  20:00 UTC-6   South Korea  2-1 (0-0)  Czech Republic   @ Guadalajara
                   (HWANG Inbeom 67', OH Hyeongyu 80';
                    Ladislav KREJCI 59')
 Thu Jun 18
-  12:00 UTC-4   Czechia  1-1 (1-0)  South Africa   @ Atlanta
+  12:00 UTC-4   Czech Republic  1-1 (1-0)  South Africa   @ Atlanta
                   (Michal SADILEK 6'; Teboho MOKOENA 83'(p))
-  19:00 UTC-6   Mexico  1-0 (0-0)  Korea Republic   @ Guadalajara
+  19:00 UTC-6   Mexico  1-0 (0-0)  South Korea   @ Guadalajara
                   (Luis ROMO 50')
 Wed Jun 24
-  19:00 UTC-6   South Africa  1-0 (0-0)  Korea Republic   @ Monterrey
+  19:00 UTC-6   South Africa  1-0 (0-0)  South Korea   @ Monterrey
                   (Thapelo MASEKO 63')
-  19:00 UTC-6   Czechia  0-3 (0-0)  Mexico   @ Mexico City
+  19:00 UTC-6   Czech Republic  0-3 (0-0)  Mexico   @ Mexico City
                   (Mateo CHAVEZ 55', Julian QUINONES 61', Alvaro FIDALGO 90+4')
 
 ▪ First Stage, Group B
@@ -85,16 +85,16 @@ Fri Jun 12
                   (Damian BOBADILLA 7'(og), Folarin BALOGUN 31', 45+5', Giovanni REYNA 90+8';
                    MAURICIO 73')
 Sat Jun 13
-  21:00 UTC-7   Australia  2-0 (1-0)  Türkiye   @ Vancouver
+  21:00 UTC-7   Australia  2-0 (1-0)  Turkey   @ Vancouver
                   (Nestory IRANKUNDA 27', Connor METCALFE 75')
 Fri Jun 19
   12:00 UTC-7   USA  2-0 (2-0)  Australia   @ Seattle
                   (Cameron BURGESS 11'(og), Alex FREEMAN 43')
-  20:00 UTC-7   Türkiye  0-1 (0-1)  Paraguay   @ San Francisco Bay Area
+  20:00 UTC-7   Turkey  0-1 (0-1)  Paraguay   @ San Francisco Bay Area
                   (Matias GALARZA 2')
 Thu Jun 25
   19:00 UTC-7   Paraguay  0-0 (0-0)  Australia   @ San Francisco Bay Area
-  19:00 UTC-7   Türkiye  3-2 (2-1)  USA   @ Los Angeles
+  19:00 UTC-7   Turkey  3-2 (2-1)  USA   @ Los Angeles
                   (Arda GULER 10', Baris Alper YILMAZ 31', Kaan Ayhan 90+8';
                    Auston TRUSTY 3', Sebastian BERHALTER 49')
 
@@ -142,11 +142,11 @@ Thu Jun 25
 Mon Jun 15
   12:00 UTC-7   Belgium  1-1 (0-1)  Egypt   @ Seattle
                   (MOHAMED HANY 66'(og); EMAM ASHOUR 19')
-  18:00 UTC-7   IR Iran  2-2 (1-1)  New Zealand   @ Los Angeles
+  18:00 UTC-7   Iran  2-2 (1-1)  New Zealand   @ Los Angeles
                   (Ramin REZAEIAN 32', Mohammad MOHEBBI 64';
                    Elijah JUST 7', 54')
 Sun Jun 21
-  12:00 UTC-7   Belgium  0-0 (0-0)  IR Iran   @ Los Angeles
+  12:00 UTC-7   Belgium  0-0 (0-0)  Iran   @ Los Angeles
   18:00 UTC-7   New Zealand  1-3 (1-0)  Egypt   @ Vancouver
                   (Finn SURMAN 15';
                    MOSTAFA ZICO 58', MOHAMED SALAH 67', TREZEGUET 82')
@@ -154,7 +154,7 @@ Fri Jun 26
   20:00 UTC-7   New Zealand  1-5 (0-1)  Belgium   @ Vancouver
                   (Elijah JUST 84';
                    Leandro TROSSARD 28', 50', Kevin DE BRUYNE 66', Romelu LUKAKU 86', Alexis SAELEMAEKERS 90+4')
-  20:00 UTC-7   Egypt  1-1 (1-1)  IR Iran   @ Seattle
+  20:00 UTC-7   Egypt  1-1 (1-1)  Iran   @ Seattle
                   (MAHMOUD SABER 5'; Ramin REZAEIAN 14')
 
 ▪ First Stage, Group H
