@@ -1,0 +1,16 @@
+######
+#  1974 World Cup  Venues   9 (in 9 cities)
+#
+# note - uses (legacy) fifa code for West Germany for now - why? why not?
+
+name, city, cc
+
+Olympiastadion, Berlin West, frg
+Westfalenstadion, Dortmund, frg
+Rheinstadion, Düsseldorf, frg
+Waldstadion, Frankfurt, frg
+Parkstadion, Gelsenkirchen, frg
+Volksparkstadion, Hamburg, frg
+Niedersachsenstadion, Hanover, frg
+Olympiastadion, Munich, frg
+Neckarstadion, Stuttgart, frg
