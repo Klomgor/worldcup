@@ -35,18 +35,6 @@ Group J | Argentina    Algeria   Austria   Jordan
 Group K | Portugal   DR Congo   Uzbekistan  Colombia
 Group L | England    Croatia     Ghana   Panama
 
-####
-## trivia
-##  note - official (normalized) fifa country names are:
-##      South Korea    => Korea Republic
-##      Iran           => IR Iran
-##      Cape Verde     => Cabo Verde     [pt]
-##      DR Congo       => Congo DR
-##      Ivory Coast    => Côte d'Ivoire  [fr]
-##      Czech Republic => Czechia
-##      Turkey         => Türkiye        [tr]
-
-
 
 ## change to only three matchdays in group stage - why? why not?
 ##  ▪ Matchday 1 | Jun 11-17

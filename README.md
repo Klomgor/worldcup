@@ -13,7 +13,7 @@ and the World Cup Quali(fiers). Football.TXT example:
 
 
 ```
-= World Cup 2026      # in Canada, USA, and Mexico 
+= World Cup 2026      # in Canada, USA, and Mexico
 
 Group A | Mexico 	      South Africa    South Korea	   Czech Republic
 Group B | Canada      Bosnia & Herzegovina  Qatar    Switzerland
@@ -26,7 +26,7 @@ Group H | Spain           Cape Verde   Saudi Arabia   Uruguay
 Group I | France      Senegal   Iraq   Norway
 Group J | Argentina	   Algeria   Austria   Jordan
 Group K | Portugal   DR Congo   Uzbekistan  Colombia
-Group L | England    Croatia     Ghana   Panama	
+Group L | England    Croatia     Ghana   Panama
 
 
 ▪ Group A, Matchday 1
@@ -38,14 +38,14 @@ Thu June 11
                    Ladislav Krejcí 59')
 ...
 
-▪ Match for third place   
-Sat Jul 18 
-  17:00 UTC-4   France v England   4-6 (0-4)    @ Miami (Miami Gardens) 
+▪ Match for third place
+Sat Jul 18
+  17:00 UTC-4   France v England   4-6 (0-4)    @ Miami (Miami Gardens)
                     (Kylian Mbappé 48',66' Bradley Barcola 54' Ousmane Dembélé 90+6';
                      Declan Rice 3' Ezri Konsa 18' Bukayo Saka 37', 45+1', 87'(p) Jude Bellingham 90+8')
 
 ▪ Final
-Sun Jul 19 
+Sun Jul 19
   15:00 UTC-4   Spain v Argentina  1-0 a.e.t. (0-0, 0-0)   @ New York/New Jersey (East Rutherford)
                      (Ferran Torres 106')
 
@@ -86,15 +86,15 @@ Sun Dec 18
               (Lionel Messi 23'(p), 108', Ángel Di María 36';
                Kylian Mbappé 80'(p), 81', 118'(p))
 
-Penalty kicks: 0-1 Mbappé,            1-1 Messi, 
+Penalty kicks: 0-1 Mbappé,            1-1 Messi,
                    Coman (stopped),   2-1 Dybala,
-                   Tchouaméni (wide), 3-1 Paredes, 
-               3-2 Kolo Muani,        4-2 Montiel 
+                   Tchouaméni (wide), 3-1 Paredes,
+               3-2 Kolo Muani,        4-2 Montiel
 
-Argentina: E. Martínez, Molina (Montiel 91'), Romero, Otamendi, 
-           Tagliafico (Dybala 120+1'), De Paul (Paredes 102'), Fernández, 
-           Mac Allister (Pezzella 116'), Messi, Álvarez (La. Martínez 103'), 
-           Di María (Acuña 64') 
+Argentina: E. Martínez, Molina (Montiel 91'), Romero, Otamendi,
+           Tagliafico (Dybala 120+1'), De Paul (Paredes 102'), Fernández,
+           Mac Allister (Pezzella 116'), Messi, Álvarez (La. Martínez 103'),
+           Di María (Acuña 64')
 France: Lloris, Koundé (Disasi 120+1'), Varane (Konaté 113'), Upamecano,
         Th. Hernandez (Camavinga 71'), Dembélé (Kolo Muani 41'), Tchoauméni,
         Griezmann (Coman 71'), Rabiot (Fofana 96'), Mbappé, Giroud (Thuram 41')
@@ -123,17 +123,17 @@ Thu Jun 14
   18:00 UTC+3   Russia        v Saudi Arabia  5-0 (2-0)     @ Luzhniki Stadium, Moscow
                   (Gazinsky 12' Cheryshev 43', 90+1' Dzyuba 71' Golovin 90+4')
 Fri Jun 15
-  17:00 UTC+5   Egypt         v Uruguay  0-1 (0-0)          @ Ekaterinburg Arena, Ekaterinburg 
+  17:00 UTC+5   Egypt         v Uruguay  0-1 (0-0)          @ Ekaterinburg Arena, Ekaterinburg
                   (Giménez 89')
 ...
 
 ▪ Match for third place
 Sat Jul 14
-  17:00 UTC+3   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg 
+  17:00 UTC+3   Belgium    v England  2-0 (1-0)        @ Saint Petersburg Stadium, St. Petersburg
                   (Thomas Meunier 4' Eden Hazard 82')
 ▪ Final
 Sun Jul 15
-   18:00 UTC+3   France     v Croatia  4-2 (2-1)       @ Luzhniki Stadium, Moscow 
+   18:00 UTC+3   France     v Croatia  4-2 (2-1)       @ Luzhniki Stadium, Moscow
                   (Mandžukić 18'(og) Griezmann 38'(p) Pogba 59' Mbappé 65';
                    Perišić 28' Mandžukić 69')
 ```
@@ -155,10 +155,10 @@ Group H  |  Belgium      Algeria              Russia         South Korea
 
 ▪ Group A
 Thu Jun 12
-  17:00 UTC-3   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo 
+  17:00 UTC-3   Brazil   v Croatia  3-1 (1-1)       @ Arena de São Paulo, São Paulo
                  (Neymar 29', 71'(p) Oscar 90+1';  Marcelo 11'(og))
 Fri Jun 13
-  13:00 UTC-3   Mexico   v Cameroon  1-0 (0-0)      @ Estádio das Dunas, Natal 
+  13:00 UTC-3   Mexico   v Cameroon  1-0 (0-0)      @ Estádio das Dunas, Natal
                  (Peralta 61')
 
 ...
@@ -169,13 +169,13 @@ Sat Jul 12
                 (Robin Van Persie 3'(p) Daley Blind 17' Georginio Wijnaldum 90+1')
 ▪ Final
 Sun Jul 13
-  16:00 UTC-3  Germany   v Argentina   1-0 a.e.t. (0-0)   @ Estádio do Maracanã, Rio de Janeiro 
+  16:00 UTC-3  Germany   v Argentina   1-0 a.e.t. (0-0)   @ Estádio do Maracanã, Rio de Janeiro
                  (Mario Götze 113')
 
 Germany: Neuer, Lahm, Boateng, Hummels, Höwedes, Kramer (Schürrle 32'),
-         Schweinsteiger, Kroos, Th. Müller, Klose (Götze 88'), 
+         Schweinsteiger, Kroos, Th. Müller, Klose (Götze 88'),
          Özil (Mertesacker 120')
-Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'), 
+Argentina: Romero, Zabaleta, Demichelis, Garay, Roko, Lavezzi (Agüero 46'),
            Biglia, Mascherano, E. Pérez (Gago 86'),
            Messi, Higuain (Palacio 78')
 ```
@@ -228,11 +228,6 @@ That's it.
 
 
 
-
----
-
-NOTE - For an alternative world cup dataset using the Football.TXT format that incl. lineups, subs, sent offs, and more, 
-see [openfootball/worldcup.more](https://github.com/openfootball/worldcup.more).
 
 
 ## Questions? Comments?
