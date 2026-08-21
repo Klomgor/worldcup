@@ -9,6 +9,6 @@ jobs:
   deploy:
     uses: sportdb/sport.db.v2/.github/workflows/pages.yml@master
     permissions:
-      content: read
+      contents: read
       pages: write
       id-token: write
