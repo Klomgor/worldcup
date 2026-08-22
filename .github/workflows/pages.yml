@@ -10,5 +10,5 @@ jobs:
     uses: sportdb/sport.db.v2/.github/workflows/pages.yml@master
     permissions:
       contents: read
-      pages: write
+      pages:    write
       id-token: write
